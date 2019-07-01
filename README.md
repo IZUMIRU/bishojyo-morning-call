@@ -12,4 +12,5 @@
 ![image](https://user-images.githubusercontent.com/11635641/60399885-20952600-9ba7-11e9-957a-b571428c0194.png)
 
 ## Qiita
-- 追記予定
+
+- [[GAS/Twilio]広瀬すずさんがSlackのリマインダー機能でモーニングコールしてくれるサービス](https://qiita.com/IZUMIRU/private/5baa3027e89cc843a3c4)
